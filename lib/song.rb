@@ -48,6 +48,6 @@ class Song
         artist_count[artist] = 1
       end
     end
-      return genre_count
+      return artist_count
     end
 end
